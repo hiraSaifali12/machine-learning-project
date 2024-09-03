@@ -66,4 +66,3 @@ if st.button('Recommend'):
         st.text(names[4])
         st.image(posters[4])
 
-
